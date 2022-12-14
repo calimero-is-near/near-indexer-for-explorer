@@ -36,7 +36,7 @@ tracing-subscriber = "0.2.4"
 uint = { version = "0.8.3", default-features = false }
 
 actix-diesel = { git = "https://github.com/frol/actix-diesel", rev = "3a001986c89dfabfc3c448d8bae28525101b4992" }
-near-indexer = { git = "https://github.com/near/nearcore", rev = "267e36e39fb5bb29c1df23c73afbcaa750ce96b1" }
-near-crypto = { git = "https://github.com/near/nearcore", rev = "267e36e39fb5bb29c1df23c73afbcaa750ce96b1" }
-near-client = { git = "https://github.com/near/nearcore", rev = "267e36e39fb5bb29c1df23c73afbcaa750ce96b1" }
-near-o11y = { git = "https://github.com/near/nearcore", rev = "267e36e39fb5bb29c1df23c73afbcaa750ce96b1" }
+near-indexer = { git = "https://github.com/calimero-is-near/nearcore", rev = "75d28392c6aa736ae4601463b62ff6944e80c146" }
+near-crypto = { git = "https://github.com/calimero-is-near/nearcore", rev = "75d28392c6aa736ae4601463b62ff6944e80c146" }
+near-client = { git = "https://github.com/calimero-is-near/nearcore", rev = "75d28392c6aa736ae4601463b62ff6944e80c146" }
+near-o11y = { git = "https://github.com/calimero-is-near/nearcore", rev = "267e36e39fb5bb29c1df23c73afbcaa750ce96b1" }
